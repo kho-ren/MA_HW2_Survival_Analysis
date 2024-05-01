@@ -1,5 +1,5 @@
 ## Overview
-This document analyzes a telecommunications dataset, focusing on customer churn and Customer Lifetime Value (CLV).
+This report analyzes a telecommunications dataset, focusing on customer churn and Customer Lifetime Value (CLV).
 
 ## Data Preparation
 The dataset was preprocessed, irrelevant columns dropped, and categorical variables encoded.
